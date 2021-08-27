@@ -1,3 +1,2 @@
 <?php
 
-echo "WELCOME TO PHP CLASS. ITS GREAT";

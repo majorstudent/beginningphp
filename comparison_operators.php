@@ -7,4 +7,5 @@ var_dump(value: $number1 == $number2 || $number2 == $number3);
 echo "<br>";
 var_dump($number1 <= $number3);
 echo "<br>";
-var_dump($number1 != $number21);
+var_dump($number1 != $number21d);
+var_dump($number1 != $number21d);
