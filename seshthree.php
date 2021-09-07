@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-print_r($_SESSION);
+print_r($_SESSION);sa
 $name = isset($_SESSION['name']) ? $_SESSION['name'] : 'Guest';
 $email = isset($_SESSION['email']) ? $_SESSION['email'] : 'Not Subscribed';
 
